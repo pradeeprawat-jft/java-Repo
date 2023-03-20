@@ -30,7 +30,6 @@ class sum{
         obj.c();
         obj.d();
 
-	System.out.println("Hello World!!!");
-
+	// delete the line by tanya 
     }
 }
