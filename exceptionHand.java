@@ -34,6 +34,7 @@ public class exceptionHand {
         finally {
             System.out.println("runnable code... whether exceptions occurred or not");
         }
+	System.out.println("Hello world");
     }
 
 
