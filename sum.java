@@ -30,6 +30,6 @@ class sum{
         obj.c();
         obj.d();
 
-	// delete the line by tanya 
+	// adding new line 
     }
 }
