@@ -29,5 +29,7 @@ class sum{
         obj.b();
         obj.c();
         obj.d();
+
+	// delete the line by tanya 
     }
 }
