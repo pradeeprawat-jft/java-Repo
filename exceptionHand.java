@@ -9,7 +9,7 @@ public class exceptionHand {
     {
         System.out.println("Inside fun(). ");
         throw new IllegalAccessException("demo");
-    }
+    }kjnvjsdbvkjsbvksvsvbk
 
     // This is a caller function
     public static void main(String args[])
